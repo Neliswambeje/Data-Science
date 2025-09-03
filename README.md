@@ -28,7 +28,7 @@ The model learns from **60,000 training images** and evaluates performance on **
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/mnist-week1.git
+   git clone https://github.com/Neliswambeje/Data-Science/tree/Deep-Learning-mnist
    cd mnist-week1
 
 2. Create and activate environment
